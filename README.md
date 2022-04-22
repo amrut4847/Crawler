@@ -10,7 +10,7 @@ Getting up and running is as easy as 1-5 steps.
 2. Install your dependencies
 
     ```
-    cd path/to/vehicle
+    cd path/to/crawler
     npm install
     ```
 
